@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat Module</string>
+    <string name="online_indicator">Online Indicator</string>
+    <string name="read_status">Read Status</string>
+</resources>
